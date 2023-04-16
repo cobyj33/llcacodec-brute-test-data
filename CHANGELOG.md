@@ -3,6 +3,8 @@
 
 ## April 15, 2023: llcacodec Version 0.1.4->0.1.5
 
+Added README for all added pattern catalogs and sources
+
 Added the named pattern collection from the
 [Life Lexicon](https://conwaylife.com/ref/lexicon/lex_home.htm)
 
